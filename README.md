@@ -1,4 +1,4 @@
-# wireframing
+# Wireframing
 wireframing design and it importance
 # Brief introduction of wireframing and it importance
 # WHAT IS WIREFRAMING
